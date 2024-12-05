@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 - 🔭 Currently working on: **Chatbot development for local businesses**  
 - 🌱 Learning: **Python, Machine Learning, and Web Development**  
 - 💡 Interests: AI, Automation, and solving real-world problems with code  
-- 📫 Reach me at: **ilyaslayyah123@gmail.com**  
+- 📫 Reach me at: **ilyaslayyah786@gmail.com**  
 
 ## 💻 Technologies & Tools  
 Here are some of the tools and technologies I work with:  
